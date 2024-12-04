@@ -6,7 +6,9 @@ Bienvenido! En este repositorio dejo mis resultados de los retos de [adventjs.de
 
 * [Reto 1](/src/retos1al5/reto1.ts)
 * [Reto 2](/src/retos1al5/reto2.ts)
-* Reto 3: próximamente
+* [Reto 3](/src/retos1al5/reto3.ts)
+* [Reto 4](/src/retos1al5/reto4.ts)
+* Reto 5: próximamente
 
 ## Comandos
 

@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "tsc -w",
     "start": "node dist/app.js",
-    "reto1": "node --watch dist/retos1al5/reto1.js",
-    "reto2": "node --watch dist/retos1al5/reto2.js",
+    "actual": "node --watch dist/retos1al5/reto4.js",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
