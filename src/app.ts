@@ -6,3 +6,4 @@ import './retos1al5/reto5.js';
 import './retos5al10/reto6.js';
 import './retos5al10/reto7.js';
 import './retos5al10/reto8.js';
+import './retos5al10/reto9.js';
