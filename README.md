@@ -15,7 +15,9 @@ Bienvenido! En este repositorio dejo mis resultados de los retos de [adventjs.de
 | 07 | [fixPackages](/src/retos6al10/reto7.ts) | [🔗](https://adventjs.dev/es/challenges/2024/7) |
 | 08 | [drawRace](/src/retos6al10/reto8.ts) | [🔗](https://adventjs.dev/es/challenges/2024/8) |
 | 09 | [moveTrain](/src/retos6al10/reto9.ts) | [🔗](https://adventjs.dev/es/challenges/2024/9) |
-| 10 | Próximamente | [🔗](https://adventjs.dev/es/challenges/2024/10) |
+| 10 | [compile](/src/retos6al10/reto10.ts) | [🔗](https://adventjs.dev/es/challenges/2024/10) |
+| 11 | [decodeFilename](/src/retos11al15/reto11.ts) | [🔗](https://adventjs.dev/es/challenges/2024/11) |
+| 12 | Próximamente | [🔗](https://adventjs.dev/es/challenges/2024/12) |
 
 ## Comandos
 

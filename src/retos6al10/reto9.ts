@@ -75,3 +75,18 @@ function moveTrain(board: Board, mov: Movement): Result {
 
   return res;
 }
+
+const board = [
+  '·····',
+  '*····',
+  '@····',
+  'o····',
+  'o····'
+]
+
+console.log('Reto 9:')
+
+console.log(moveTrain(board, 'U'))
+console.log(moveTrain(board, 'D'))
+console.log(moveTrain(board, 'L'))
+console.log(moveTrain(board, 'R'), '\n')
